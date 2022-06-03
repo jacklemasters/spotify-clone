@@ -1,7 +1,7 @@
 
 # **Spotify Clone built by Jackson LeMasters**
 ## Description 
-A clone of the spotify application built using React.js, Next.js, Middleware, Spotify API, Tailwind, NextAuth, Recoil, and Node. Entire UI built from scratch, and uses the Spotify API to pull your playlist data, songs, images, etc.
+A clone of the spotify application built using React.js, Next.js, Middleware, Spotify API, Tailwind, NextAuth, Recoil, and Node. Entire UI built from scratch, and uses the Spotify API to pull your playlist data, songs, images, etc. Repository is forked from my original GitHub account
 ## Table of contents
 - [Description](#Description)
 - [Installation](#Installation)
@@ -17,5 +17,5 @@ Jackson LeMasters
 ## GitHub
 ![Image of me](https://avatars.githubusercontent.com/u/82251556?v=4)
 - Jackson LeMasters
-- [GitHub Profile](https://github.com/jacklemasters)
+- [GitHub Profile](https://github.com/tf-jlemasters)
 
